@@ -1,12 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!-- Esto se usa, para modificar el presupuesto defecto-->
 <odoo>
-    <record id="report_saleorder_document_changes" model="ir.ui.view">
-        <field name="name">Presupuestos soillums</field>
+    <record id="saleorder_soillums_inh_report" model="ir.ui.view">
+        <field name="name">saleorder.soillums.inh.report</field>
         <field name="inherit_id" ref="sale.report_saleorder_document"/>
         <field name="arch" type="xml">
-
+            <data></data>
         </field>
+        <field name="type">qweb</field>
+        <field name="priority">99</field>
     </record>
 
 </odoo>
