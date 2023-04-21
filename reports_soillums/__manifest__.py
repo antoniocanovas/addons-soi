@@ -14,7 +14,7 @@
                 ],
     "data": [
         "views/account_move_report.xml",
-        "views/sale_order_report.xml",
+ #       "views/sale_order_report.xml",
     ],
     "installable": True,
 }
