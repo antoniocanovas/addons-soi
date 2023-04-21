@@ -9,9 +9,12 @@
     "author": "SerinCloud, ",
     "website": "https://ingeniriacloud.com",
     "license": "AGPL-3",
-    "depends": ['account'],
+    "depends": ['account',
+                'sale_management',
+                ],
     "data": [
-        "views/report_account_move_changes.xml",
+        "views/account_move_report.xml",
+        "views/sale_order_report.xml",
     ],
     "installable": True,
 }
