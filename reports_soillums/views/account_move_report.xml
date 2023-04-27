@@ -37,7 +37,7 @@
                         </div>
 
                     </div>
-
+            <!-- Comentado el 26/04/2023:
                     <div id="informations" class="row mt-4 mb-4">
                         <div class="col-auto col-3 mw-100 mb-2" t-if="o.invoice_origin" name="origin">
                             <strong>Source:</strong>
@@ -52,6 +52,7 @@
                             <p class="m-0" t-field="o.ref"/>
                         </div>
                     </div>
+                -->
 
                 </xpath>
                 <xpath expr="//div[@name='address_not_same_as_shipping']/t/address" position="replace">
