@@ -4,6 +4,8 @@
     <record id="report_accountmove_document_changes" model="ir.ui.view">
         <field name="name">Facturas soillums</field>
         <field name="inherit_id" ref="account.report_invoice_document"/>
+        <field name="type">qweb</field>
+        <field name="priority">99</field>
         <field name="arch" type="xml">
             <data>
                 <xpath expr="//h2" position="replace"/>
