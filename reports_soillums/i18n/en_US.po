@@ -6,15 +6,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 16.0+e\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-28 16:32+0000\n"
-"PO-Revision-Date: 2023-04-28 18:56+0200\n"
+"POT-Creation-Date: 2023-04-28 16:57+0000\n"
+"PO-Revision-Date: 2023-04-28 18:57+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: es\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: \n"
 "X-Generator: Poedit 3.2.2\n"
 
 #. module: reports_soillums
@@ -24,52 +24,52 @@ msgid ""
 "                    CIF:"
 msgstr ""
 "<br/>\n"
-"                    NIF:"
+"                    VAT:"
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.report_accountmove_document_changes
 msgid "<strong>Credit Note Date:</strong>"
-msgstr "<strong>Fecha de rectificativa:</strong>"
+msgstr ""
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.report_accountmove_document_changes
 msgid "<strong>Date:</strong>"
-msgstr "<strong>Fecha:</strong>"
+msgstr ""
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.report_accountmove_document_changes
 msgid "<strong>Due Date:</strong>"
-msgstr "<strong>Fecha de vencimiento:</strong>"
+msgstr ""
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.report_accountmove_document_changes
 msgid "<strong>Invoice Date: </strong>"
-msgstr "<strong>Fecha de factura:</strong>"
+msgstr ""
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.report_accountmove_document_changes
 msgid "<strong>Receipt Date:</strong>"
-msgstr "<strong>Fecha de recepción:</strong>"
+msgstr ""
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.report_accountmove_document_changes
 msgid "Cancelled Invoice"
-msgstr "Factura cancelada"
+msgstr ""
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.report_accountmove_document_changes
 msgid "Credit Note"
-msgstr "Factura rectificativa"
+msgstr ""
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.report_accountmove_document_changes
 msgid "Draft Invoice"
-msgstr "Borrador de factura"
+msgstr ""
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.report_accountmove_document_changes
 msgid "Invoice"
-msgstr "Factura"
+msgstr ""
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.external_layout_standard_inh_qweb
@@ -77,18 +77,16 @@ msgid ""
 "LED screens<strong/><br/>\n"
 "                                    Audio <strong/><br/>"
 msgstr ""
-"Pantalla LED<strong/><br/>\n"
-"                                    Audio <strong/><br/>"
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.report_accountmove_document_changes
 msgid "Legal notice"
-msgstr "Aviso Legal"
+msgstr ""
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.external_layout_standard_inh_qweb
 msgid "Lightning <strong/><br/>"
-msgstr "Iluminación"
+msgstr ""
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.report_accountmove_document_changes
@@ -106,33 +104,18 @@ msgid ""
 "does not guarantee the integrity, speed or security of this mail, nor is it "
 "responsible for possible"
 msgstr ""
-"Este mensaje y, en su caso, los ficheros anexos tienen carácter "
-"confidencial, especialmente en lo que se refiere a los datos personales, y "
-"se dirigen exclusivamente al destinatario referenciado. Si no se trata de "
-"éste y lo ha recibido por error o se le ha hecho llegar por cualquier "
-"motivo, le rogamos que nos lo comunique por esta misma vía y lo destruya o "
-"borre, y que en todo caso se abstenga utilizar, reproducir, alterar, "
-"archivar o comunicar a terceros este mensaje y ficheros anexos, todo so "
-"pena de entrar en responsabilidades legales. Las opiniones contenidas en "
-"este mensaje y en los archivos adjuntos pertenecen exclusivamente a su "
-"remitente y no representan la opinión de la empresa salvo que se diga "
-"expresamente y el remitente esté autorizado para ello. El emisor no "
-"garantiza la integridad, rapidez o seguridad de este correo, ni se "
-"responsabiliza de posibles perjuicios derivados de la captura, "
-"incorporaciones de virus o cualesquiera otras manipulaciones que hagan "
-"terceros."
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.report_accountmove_document_changes
 msgid "Vendor Bill"
-msgstr "Factura de proveedor"
+msgstr ""
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.report_accountmove_document_changes
 msgid "Vendor Credit Note"
-msgstr "Factura rectificativa de proveedor"
+msgstr ""
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.external_layout_standard_inh_qweb
 msgid "Video <strong/><br/>"
-msgstr "Vídeo <strong/><br/>"
+msgstr ""

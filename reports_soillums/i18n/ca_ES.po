@@ -6,15 +6,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 16.0+e\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-28 16:32+0000\n"
+"POT-Creation-Date: 2023-04-28 16:46+0000\n"
 "PO-Revision-Date: 2023-04-28 18:56+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: es\n"
+"Language: ca_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: \n"
 "X-Generator: Poedit 3.2.2\n"
 
 #. module: reports_soillums
@@ -29,32 +29,32 @@ msgstr ""
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.report_accountmove_document_changes
 msgid "<strong>Credit Note Date:</strong>"
-msgstr "<strong>Fecha de rectificativa:</strong>"
+msgstr "<strong>Data de rectificativa:</strong>"
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.report_accountmove_document_changes
 msgid "<strong>Date:</strong>"
-msgstr "<strong>Fecha:</strong>"
+msgstr "<strong>Data:</strong>"
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.report_accountmove_document_changes
 msgid "<strong>Due Date:</strong>"
-msgstr "<strong>Fecha de vencimiento:</strong>"
+msgstr "<strong>Data de venciment:</strong>"
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.report_accountmove_document_changes
 msgid "<strong>Invoice Date: </strong>"
-msgstr "<strong>Fecha de factura:</strong>"
+msgstr "<strong>Data de factura:</strong>"
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.report_accountmove_document_changes
 msgid "<strong>Receipt Date:</strong>"
-msgstr "<strong>Fecha de recepción:</strong>"
+msgstr "<strong>Data de recepció:</strong>"
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.report_accountmove_document_changes
 msgid "Cancelled Invoice"
-msgstr "Factura cancelada"
+msgstr "Factura cancel·lada"
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.report_accountmove_document_changes
@@ -64,7 +64,7 @@ msgstr "Factura rectificativa"
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.report_accountmove_document_changes
 msgid "Draft Invoice"
-msgstr "Borrador de factura"
+msgstr "Esborrany de factura"
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.report_accountmove_document_changes
@@ -77,18 +77,18 @@ msgid ""
 "LED screens<strong/><br/>\n"
 "                                    Audio <strong/><br/>"
 msgstr ""
-"Pantalla LED<strong/><br/>\n"
-"                                    Audio <strong/><br/>"
+"         Pantalles LED<strong/><br/>\n"
+"                                    Àudio<strong/><br/>"
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.report_accountmove_document_changes
 msgid "Legal notice"
-msgstr "Aviso Legal"
+msgstr "Advertiment legal"
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.external_layout_standard_inh_qweb
 msgid "Lightning <strong/><br/>"
-msgstr "Iluminación"
+msgstr "Il·luminació<strong/><br/>"
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.report_accountmove_document_changes
@@ -106,31 +106,30 @@ msgid ""
 "does not guarantee the integrity, speed or security of this mail, nor is it "
 "responsible for possible"
 msgstr ""
-"Este mensaje y, en su caso, los ficheros anexos tienen carácter "
-"confidencial, especialmente en lo que se refiere a los datos personales, y "
-"se dirigen exclusivamente al destinatario referenciado. Si no se trata de "
-"éste y lo ha recibido por error o se le ha hecho llegar por cualquier "
-"motivo, le rogamos que nos lo comunique por esta misma vía y lo destruya o "
-"borre, y que en todo caso se abstenga utilizar, reproducir, alterar, "
-"archivar o comunicar a terceros este mensaje y ficheros anexos, todo so "
-"pena de entrar en responsabilidades legales. Las opiniones contenidas en "
-"este mensaje y en los archivos adjuntos pertenecen exclusivamente a su "
-"remitente y no representan la opinión de la empresa salvo que se diga "
-"expresamente y el remitente esté autorizado para ello. El emisor no "
-"garantiza la integridad, rapidez o seguridad de este correo, ni se "
-"responsabiliza de posibles perjuicios derivados de la captura, "
-"incorporaciones de virus o cualesquiera otras manipulaciones que hagan "
-"terceros."
+"Aquest missatge i, si escau, els fitxers annexos tenen caire confidencial, "
+"especialment pel que fa a les dades personals, i s'adrecen exclusivament al "
+"destinatari referenciat. Si no es tracta d'aquest i l'ha rebut per error o "
+"se li ha fet arribar per qualsevol motiu, li preguem que ens ho comuniqui "
+"per aquesta mateixa via i el destrueixi o l'esborri, i que en tot cas "
+"s'abstingui d'utilitzar, reproduir, alterar, arxivar o comunicar a tercers "
+"aquest missatge i fitxers annexos, tot sota pena d'entrar en "
+"responsabilitats legals. Les opinions contingudes en aquest missatge i en "
+"els arxius adjunts, pertanyen exclusivament al seu remitent i no "
+"representen l'opinió de l'empresa tret que es digui expressament i el "
+"remitent estigui autoritzat per a això. L'emissor no garanteix la "
+"integritat, la rapidesa o la seguretat d'aquest correu, ni es "
+"responsabilitza de possibles perjudicis derivats de la captura, "
+"incorporacions de virus o qualsevol altres manipulacions que facin tercers."
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.report_accountmove_document_changes
 msgid "Vendor Bill"
-msgstr "Factura de proveedor"
+msgstr "Factura de proveïdor"
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.report_accountmove_document_changes
 msgid "Vendor Credit Note"
-msgstr "Factura rectificativa de proveedor"
+msgstr "Factura rectificativa de proveïdor"
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.external_layout_standard_inh_qweb
