@@ -44,7 +44,7 @@ msgstr "<strong>Venciment:</strong>"
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.report_accountmove_document_changes
 msgid "<strong>Invoice Date: </strong>"
-msgstr "<strong>Data de factura:</strong>"
+msgstr "<strong>Data:</strong>"
 
 #. module: reports_soillums
 #: model_terms:ir.ui.view,arch_db:reports_soillums.report_accountmove_document_changes
