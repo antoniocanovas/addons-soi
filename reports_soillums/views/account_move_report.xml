@@ -29,11 +29,8 @@
                             <t t-elif="o.move_type == 'out_receipt'"><strong>Receipt Date:</strong></t>
                             <t t-else=""><strong>Date:</strong></t>
                             <span class="m-0" t-field="o.invoice_date"/>
-
-                            <div t-if="o.invoice_date_due and o.move_type == 'out_invoice' and o.state == 'posted'" name="due_date" style="float: left; font-size: 20px;">
-                                <strong>Due Date:</strong>
-                                <span class="m-0" t-field="o.invoice_date_due"/>
-                            </div>
+                            <p><strong>Due Date:</strong>
+                                <span class="m-0" t-field="o.invoice_date_due"/></p>
                         </div>
 
                     </div>
