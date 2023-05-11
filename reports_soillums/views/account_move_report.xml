@@ -74,7 +74,7 @@
                    <!-- CIF: <span t-field="o.partner_id.vat"/> -->
                 </xpath>
                 <xpath expr="//div[@id='qrcode']" position="after">
-                    <div style="text-align:justify; margin-top: 30%;">
+                    <div style="text-align:justify; position:absolute; left: 5px; bottom: 15px;">
                         <p>Advertiment legal</p>
                         <p>Aquest missatge i, si escau, els fitxers annexos tenen caire confidencial, especialment pel que fa a les dades personals, i s'adrecen exclusivament al destinatari referenciat. Si no es tracta d'aquest i l'ha rebut per error o se li ha fet arribar per qualsevol motiu, li preguem que ens ho comuniqui per aquesta mateixa via i el destrueixi o l'esborri, i que en tot cas s'abstingui d'utilitzar, reproduir, alterar, arxivar o comunicar a tercers aquest missatge i fitxers annexos, tot sota pena d'entrar en responsabilitats legals. Les opinions contingudes en aquest missatge i en els arxius adjunts, pertanyen exclusivament al seu remitent i no representen l'opinió de l'empresa tret que es digui expressament i el remitent estigui autoritzat per a això. L'emissor no garanteix la integritat, la rapidesa o la seguretat d'aquest correu, ni es responsabilitza de possibles </p>
                     </div>
